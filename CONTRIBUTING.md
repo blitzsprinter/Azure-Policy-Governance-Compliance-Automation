@@ -21,7 +21,7 @@ Before you start contributing, please take a moment to read this document to und
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report any unacceptable behavior to [Email](mailto:byansianthony@gmail.com).
+This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report any unacceptable behavior to [Email](mailto:dustin.jason.lee@gmail.com).
 
 ## How Can I Contribute?
 
@@ -29,11 +29,11 @@ There are several ways to contribute to this project:
 
 ### Reporting Bugs
 
-If you encounter any issues, bugs, or unexpected behavior in the project, please [open an issue](https://github.com/AnthonyByansi/Azure-Policy-Governance-Compliance-Automation/issues) on GitHub. When reporting bugs, please include as much detail as possible, such as the steps to reproduce the issue and your environment's specifications.
+If you encounter any issues, bugs, or unexpected behavior in the project, please [open an issue](https://github.com/AzureSphere7/Azure-Policy-Governance-Compliance-Automation/issues) on GitHub. When reporting bugs, please include as much detail as possible, such as the steps to reproduce the issue and your environment's specifications.
 
 ### Suggesting Enhancements
 
-If you have ideas for enhancements or new features, feel free to [open an issue](https://github.com/AnthonyByansi/Azure-Policy-Governance-Compliance-Automation/issues) to discuss your suggestions. We appreciate your feedback and will consider all constructive ideas.
+If you have ideas for enhancements or new features, feel free to [open an issue](https://github.com/AzureSphere7/Azure-Policy-Governance-Compliance-Automation/issues) to discuss your suggestions. We appreciate your feedback and will consider all constructive ideas.
 
 ### Code Contributions
 
@@ -44,7 +44,7 @@ If you would like to contribute code to the project:
 3. Make your changes and ensure they follow our [style guidelines](#style-guidelines).
 4. Test your changes thoroughly.
 5. Update the documentation if necessary.
-6. Submit a [pull request](https://github.com/AnthonyByansi/Azure-Policy-Governance-Compliance-Automation/pulls) with a clear description of your changes and their purpose.
+6. Submit a [pull request](https://github.com/AzureSphere7/Azure-Policy-Governance-Compliance-Automation/pulls) with a clear description of your changes and their purpose.
 
 ## Getting Started
 
@@ -87,7 +87,6 @@ When submitting a pull request, please adhere to the following process:
 
 ## Maintainers
 
-This project is maintained by [Your Name](https://github.com/AnthonyByansi) and [Maintainer 2](). If you have any questions or need assistance, feel free to reach out to them.
+This project is maintained by [Your Name](https://github.com/AzureSphere7) and [Maintainer 2](). If you have any questions or need assistance, feel free to reach out to them.
 
 We appreciate your contributions to the Azure Policy Governance and Compliance Automation project and look forward to collaborating with you!
-
