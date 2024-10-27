@@ -69,7 +69,7 @@ Before getting started, ensure you have the following prerequisites:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/AnthonyByansi/Azure-Policy-Governance-Compliance-Automation.git
+   git clone https://github.com/BlitzSprinter/Azure-Policy-Governance-Compliance-Automation.git
    cd Azure-Policy-Governance-Compliance-Automation
    ```
 
